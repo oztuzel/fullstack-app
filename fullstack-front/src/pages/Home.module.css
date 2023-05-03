@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  width: 100%;
+  align-content: center;
+  justify-content: center;
+}
+
+.table {
+  width: 40rem;
+  border: 5px solid black;
+}
+
+.rowButtons > * {
+  margin-left: 20px;
+}
